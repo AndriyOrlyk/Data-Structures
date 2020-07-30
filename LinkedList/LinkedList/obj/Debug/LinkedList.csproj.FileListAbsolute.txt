@@ -1,0 +1,7 @@
+D:\Studies\Myself\Programing\GitHub\Data-Structures\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Studies\Myself\Programing\GitHub\Data-Structures\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+D:\Studies\Myself\Programing\GitHub\Data-Structures\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+D:\Studies\Myself\Programing\GitHub\Data-Structures\LinkedList\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\LinkedList\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+D:\Studies\Myself\Programing\GitHub\Data-Structures\LinkedList\LinkedList\obj\Debug\LinkedList.pdb
