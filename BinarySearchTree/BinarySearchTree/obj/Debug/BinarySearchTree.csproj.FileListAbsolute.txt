@@ -1,0 +1,7 @@
+D:\Studies\Myself\Programing\GitHub\Data-Structures\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe.config
+D:\Studies\Myself\Programing\GitHub\Data-Structures\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.exe
+D:\Studies\Myself\Programing\GitHub\Data-Structures\BinarySearchTree\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+D:\Studies\Myself\Programing\GitHub\Data-Structures\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csprojAssemblyReference.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.csproj.CoreCompileInputs.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.exe
+D:\Studies\Myself\Programing\GitHub\Data-Structures\BinarySearchTree\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
