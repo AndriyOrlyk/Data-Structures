@@ -1,0 +1,7 @@
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Heap\Heap\bin\Debug\Heap.exe.config
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Heap\Heap\bin\Debug\Heap.exe
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Heap\Heap\bin\Debug\Heap.pdb
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Heap\Heap\obj\Debug\Heap.csprojAssemblyReference.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Heap\Heap\obj\Debug\Heap.csproj.CoreCompileInputs.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Heap\Heap\obj\Debug\Heap.exe
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Heap\Heap\obj\Debug\Heap.pdb
