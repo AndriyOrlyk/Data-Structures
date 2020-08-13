@@ -1,0 +1,16 @@
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\AlgorithmTests.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\AlgorithmTests.pdb
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\Algorithm.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\Algorithm.pdb
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\obj\Debug\AlgorithmTests.csprojAssemblyReference.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\obj\Debug\AlgorithmTests.csproj.CoreCompileInputs.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\obj\Debug\AlgorithmTests.csproj.CopyComplete
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\obj\Debug\AlgorithmTests.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\AlgorithmTests\obj\Debug\AlgorithmTests.pdb
