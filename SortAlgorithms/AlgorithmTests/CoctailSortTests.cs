@@ -5,38 +5,37 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Threading;
 
 namespace Algorithm.Tests
 {
     [TestClass()]
-    public class BubbleSortTests
+    public class CoctailSortTests
     {
         [TestMethod()]
         public void SortTest()
         {
             // Arrange
-            var bubble = new BubbleSort<int>();
+            var coctail = new CoctailSort<int>();
 
             var rnd = new Random();
             var items = new List<int>();
 
-            for(var i = 0; i < 10000; i++)
+            for (var i = 0; i < 10000; i++)
             {
                 items.Add(rnd.Next(0, 100));
             }
 
-            bubble.Items.AddRange(items);
-            items.Sort();
+            coctail.Items.AddRange(items);
+            var sorted = items.OrderBy(x => x).ToArray();
 
             // Act 
-            bubble.Sort();
+            coctail.Sort();
 
 
             // Assert
-            for(var i = 0; i < items.Count; i++)
+            for (var i = 0; i < items.Count; i++)
             {
-                Assert.AreEqual(items[i], bubble.Items[i]);
+                Assert.AreEqual(sorted[i], coctail.Items[i]);
             }
         }
     }

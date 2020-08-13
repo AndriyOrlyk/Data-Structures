@@ -4,3 +4,9 @@ D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\Algorith
 D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
 D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\Algorithm\obj\Debug\Algorithm.dll
 D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\Algorithm\obj\Debug\Algorithm.pdb
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\Algorithm\bin\Debug\Algorithm.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\Algorithm\bin\Debug\Algorithm.pdb
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\Algorithm\obj\Debug\Algorithm.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\Algorithm\obj\Debug\Algorithm.pdb

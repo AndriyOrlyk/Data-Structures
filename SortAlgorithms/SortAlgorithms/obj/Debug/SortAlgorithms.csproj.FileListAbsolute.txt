@@ -11,3 +11,16 @@ D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\SortAlgo
 D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\SortAlgorithms\bin\Debug\Algorithm.pdb
 D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.Form1.resources
 D:\Studies\Myself\Programing\GitHub\Data-Structures\Sort\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.CopyComplete
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.exe.config
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.exe
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\bin\Debug\SortAlgorithms.pdb
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\bin\Debug\Algorithm.dll
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\bin\Debug\Algorithm.pdb
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csprojAssemblyReference.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.Form1.resources
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.Properties.Resources.resources
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.GenerateResource.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.CoreCompileInputs.cache
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.csproj.CopyComplete
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.exe
+D:\Studies\Myself\Programing\GitHub\Data-Structures\SortAlgorithms\SortAlgorithms\obj\Debug\SortAlgorithms.pdb
